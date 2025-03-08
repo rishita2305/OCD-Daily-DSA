@@ -1,6 +1,6 @@
 // Question 1) https://leetcode.com/problems/concatenation-of-array/
 // Concatenation of array
-// TC: O(n)  SC: O(n)
+// TC: O(n)  SC: O(n) 
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
