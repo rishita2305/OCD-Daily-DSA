@@ -11,7 +11,7 @@ class Solution {
             if(S[i]=='a' || S[i]=='e' || S[i]=='i' || S[i]=='o' || S[i]=='u'){
                 v++;
                 c=0;
-            }
+            } 
             else if(S[i]=='?'){
                 v++;
                 c++;
