@@ -1,7 +1,7 @@
 // Question 1) https://leetcode.com/problems/ugly-number/submissions/1556339828/?envType=problem-list-v2&envId=math
 //Ugly number
 // TC:O(log(n))  SC: O(1)
-class Solution {
+class Solution { 
  public:     
  bool isUgly(int n) {         
     if(n<=0){             
