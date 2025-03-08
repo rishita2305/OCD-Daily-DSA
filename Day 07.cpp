@@ -1,6 +1,6 @@
 //Question 1) 3364. Minimum Positive Sum Subarray 
 //Approach: Using sliding window approach
-//TC:O(n) SC:O(1)
+//TC:O(n^2) SC:O(1)
 class Solution {
 public:
     int minimumSumSubarray(vector<int>& nums, int l, int r) {
