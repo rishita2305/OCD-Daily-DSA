@@ -35,13 +35,17 @@ public:
 // TC: O()  SC: O() 
 
 //Question 3) 121. Best Time to Buy and Sell Stock
-//Approach:  
+//Approach: Iterate through prices while tracking the minimum price and updating the maximum profit by computing the difference between the current price and the minimum price seen so far. 
 // TC: O(n)  SC: O(1) 
 //pyhton code
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        res=0
-        for left in range(len(prices)):
-            for right in range(left+1,len(prices)):
-                res= max(res, prices[right]-prices[left])
-        return res
+        min_price = float('inf')  
+        max_profit = 0            
+
+        for price in prices:
+            min_price = min(min_price, price)
+            profit = price - min_price
+            max_profit = max(max_profit, profit)
+
+        return max_profit
