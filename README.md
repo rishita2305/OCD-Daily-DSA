@@ -1,8 +1,8 @@
 ## 🍄 OCD Daily DSA problems 🍄
 
-This repository contains solutions to coding challenges solved each day includes two or three questions with links to the respective solutions 🦦
+This repository contains solutions to coding challenges solved each day includes two or three questions with links to the respective solutions 
 
-Days and Questions🦥
+## 🦦 Days and Questions 🦦
 
 ## [Day 1](https://github.com/rishita2305/OCD-Daily-DSA/blob/main/Day%2001.cpp)
 
