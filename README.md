@@ -1,60 +1,42 @@
-# 🚀 Coding Challenges - Day 1 to 17
+🍄 OCD Daily DSA problems 🍄
 
-Welcome to my **Coding Challenges** repository! This repo contains solutions to various coding problems solved from **Day 1 to Day 17** as part of my daily problem-solving journey. Each day's challenges are documented below with links to the respective solutions.
+This repository contains solutions to coding challenges solved each day includes two or three questions with links to the respective solutions.
 
-## 📌 Progress Overview
-| Day | Questions Solved | Solution Links |
-|----|----------------|----------------|
-| 1  | Question 1, Question 2  | [Solution 1](link1), [Solution 2](link2) |
-| 2  | Question 1, Question 2  | [Solution 1](link3), [Solution 2](link4) |
-| 3  | Question 1, Question 2, Question 3 | [Solution 1](link5), [Solution 2](link6), [Solution 3](link7) |
-| ... | ... | ... |
-| 17  | Question 1, Question 2, Question 3 | [Solution 1](linkX), [Solution 2](linkY), [Solution 3](linkZ) |
+Days and Questions
 
-_(Replace `linkX`, `linkY`, etc., with actual links to your solutions)_
+[Day 1](https://github.com/rishita2305/OCD-Daily-DSA/blob/main/Day%2001.cpp)
 
-## 📂 Folder Structure
-```
-📦 Coding-Challenges
- ┣ 📂 Day-1
- ┃ ┣ 📜 solution1.py
- ┃ ┣ 📜 solution2.py
- ┣ 📂 Day-2
- ┃ ┣ 📜 solution1.py
- ┃ ┣ 📜 solution2.py
- ┣ 📂 ...
- ┣ 📂 Day-17
- ┃ ┣ 📜 solution1.py
- ┃ ┣ 📜 solution2.py
- ┣ 📜 README.md
-```
+Day 2
 
-## 🛠️ How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/repo-name.git
-   ```
-2. Navigate to the desired day’s folder:
-   ```sh
-   cd Coding-Challenges/Day-1
-   ```
-3. Run the solution:
-   ```sh
-   python solution1.py
-   ```
+Day 3
 
-## 📖 Notes
-- The solutions are written in **Python**.
-- Each file contains problem statements and explanations.
-- I will continue adding more solutions beyond Day 17.
+Day 4
 
-## 🎯 Goals
-- Improve problem-solving skills
-- Practice algorithms and data structures
-- Build consistency in coding
+Day 5
 
-## ⭐ Let's Connect
-If you find this helpful, feel free to ⭐ star the repo and connect with me!
+Day 6
 
-Happy coding! 🚀
+Day 7
+
+Day 8
+
+Day 9
+
+Day 10
+
+Day 11
+
+Day 12
+
+Day 13
+
+Day 14
+
+Day 15
+
+Day 16
+
+Day 17
+
+
 
