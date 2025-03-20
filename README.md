@@ -38,5 +38,6 @@ This repository contains solutions to coding challenges solved each day includes
 
 ## [Day 17]
 
+## [Day 18](https://github.com/rishita2305/OCD-Daily-DSA/blob/main/DAY%2018.cpp)
 
 
